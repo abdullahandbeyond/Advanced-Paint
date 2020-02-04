@@ -1,6 +1,6 @@
 # Advanced-Paint
 
-The main features of the developed program are-
+The main features of this program are-
 1.	Shapes: Free-form lines, straight lines, ellipse and rectangle.
 2.	Line weight: Thin, medium and thick weights of the lines.
 3.	Colors: Black, red, green and blue of the lines that are drawn.
